@@ -1,0 +1,6 @@
+{
+  "name": "New Fashion Beauty Parlour Chennai",
+  "description": "Premium luxury beauty parlour and training academy in Chennai, specializing in HD/3D bridal makeup, professional sterile ear piercing, wart/skin tag removal, and exquisite bridal jewellery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
